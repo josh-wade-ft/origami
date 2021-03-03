@@ -30,3 +30,12 @@ Custom date picker in Spark CMS:
 
 o-forms date input in the catering app:
 <img src="../../assets/date-input-review/catering.png" alt="o-forms date input in the catering app">
+
+Card expiration date (appears on all subscription form pages) - uses a dropdown, which makes sense, a picker is unnecessary here:
+![card-details-all-subs](https://user-images.githubusercontent.com/62945037/109802903-45615c80-7c18-11eb-83e0-1f7914f5e564.png)
+
+Print subscription date picker - Native date picker used to select the future date of delivery (Falls back to free text in safari, very bad)<img width="704" alt="print-sub-safari" src="https://user-images.githubusercontent.com/62945037/109807385-b9eaca00-7c1d-11eb-94bf-aaaf6eda51e3.png">
+
+![print-sub-chrome](https://user-images.githubusercontent.com/62945037/109803139-98d3aa80-7c18-11eb-8bc8-dbe0479381ab.jpg)
+
+
