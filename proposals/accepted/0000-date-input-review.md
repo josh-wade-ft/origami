@@ -26,7 +26,21 @@ Native date picker on the interactive graphics covid tracker (falls back to mult
 <img src="../../assets/date-input-review/tracker-fallback.png" alt="fallback select box date picker on the interactive graphics covid tracker">
 
 Custom date picker in Spark CMS:
-<img src="../../assets/date-input-review/spark.png" alt="custom date picker in Spark CMS">
+<img src="../../assets/date-input-review/spark.png" alt="custom date picker in Spark CMS">![card-details-all-subs](https://user-images.githubusercontent.com/62945037/110112195-52fa1c00-7da9-11eb-82e6-9f435b29e089.png)
 
 o-forms date input in the catering app:
 <img src="../../assets/date-input-review/catering.png" alt="o-forms date input in the catering app">
+
+Dropdown select only - card expiration date
+![card-details-all-subs](https://user-images.githubusercontent.com/62945037/110112352-8b015f00-7da9-11eb-9edf-e390cb27704a.png)
+
+Native picker - print subscription; date of delivery
+![print-sub-chrome](https://user-images.githubusercontent.com/62945037/110112378-918fd680-7da9-11eb-8c65-26dc7384fa21.jpg)
+
+Native picker - print subscription; date of delivery (SAFARI FALLBACK!) 
+<img width="704" alt="print-sub-safari" src="https://user-images.githubusercontent.com/62945037/110112492-ba17d080-7da9-11eb-9a20-4e14f0051548.png">
+
+
+
+
+
